@@ -1,6 +1,6 @@
-# Block Out Rouen Restaurant Menu Web Scrapper
+# Block Out Rouen Restaurant Menu Web Scraper
 
-> :bulb: Web scrapper for the Block Out Restaurant Menu. Works on my machine.
+> :bulb: Web scraper for the Block Out Restaurant Menu. Works on my machine.
 
 * Clone
 * Install dependencies
