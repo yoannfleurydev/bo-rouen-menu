@@ -2,6 +2,8 @@
 
 > :bulb: Web scraper for the Block Out Restaurant Menu. Works on my machine.
 
+![Works On My Machine](./works.jpg)
+
 * Clone
 * Install dependencies
 * `cp credentials.txt.dist credentials.txt`
